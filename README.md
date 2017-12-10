@@ -1,6 +1,6 @@
 # A vanilla Merge Sort implementation
 
-This is jsut a simple merge sort implementation written in C++ for my own amusement. 
+This is just a simple merge sort implementation written in C++ for my own amusement. 
 It can do 100,000,000 numbers in around 22 seconds, but it is not heavily optimized.
 
 # To Use
